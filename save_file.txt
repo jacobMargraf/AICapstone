@@ -1,0 +1,204 @@
+
+Generation: 1
+High Score: 1628
+
+Generation: 2
+High Score: 50
+
+Generation: 3
+High Score: 614
+
+Generation: 4
+High Score: 1154
+
+Generation: 5
+High Score: 1315
+
+Generation: 6
+High Score: 668
+
+Generation: 7
+High Score: 802
+
+Generation: 8
+High Score: 525
+
+Generation: 9
+High Score: 667
+
+Generation: 10
+High Score: 661
+
+Generation: 11
+High Score: 800
+
+Generation: 12
+High Score: 918
+
+Generation: 13
+High Score: 1618
+
+Generation: 14
+High Score: 672
+
+Generation: 15
+High Score: 666
+
+Generation: 16
+High Score: 758
+
+Generation: 17
+High Score: 1128
+
+Generation: 18
+High Score: 2335
+
+Generation: 19
+High Score: 3273
+
+Generation: 20
+High Score: 759
+
+Generation: 21
+High Score: 1119
+
+Generation: 22
+High Score: 710
+
+Generation: 23
+High Score: 926
+
+Generation: 24
+High Score: 3262
+
+Generation: 25
+High Score: 524
+
+Generation: 26
+High Score: 615
+
+Generation: 27
+High Score: 796
+
+Generation: 28
+High Score: 3400
+
+Generation: 29
+High Score: 616
+
+Generation: 30
+High Score: 800
+
+Generation: 31
+High Score: 663
+
+Generation: 32
+High Score: 667
+
+Generation: 33
+High Score: 2514
+
+Generation: 34
+High Score: 1204
+
+Generation: 35
+High Score: 1631
+
+Generation: 36
+High Score: 1522
+
+Generation: 37
+High Score: 665
+
+Generation: 38
+High Score: 762
+
+Generation: 39
+High Score: 2344
+
+Generation: 40
+High Score: 2514
+
+Generation: 41
+High Score: 752
+
+Generation: 42
+High Score: 658
+
+Generation: 43
+High Score: 3221
+
+Generation: 44
+High Score: 1123
+
+Generation: 45
+High Score: 613
+
+Generation: 46
+High Score: 1010
+
+Generation: 47
+High Score: 526
+
+Generation: 48
+High Score: 1306
+
+Generation: 49
+High Score: 792
+
+Generation: 50
+High Score: 667
+
+Generation: 1
+High Score: 161
+
+Generation: 2
+High Score: 50
+
+Generation: 3
+High Score: 50
+
+Generation: 4
+High Score: 611
+
+Generation: 5
+High Score: 113
+
+Generation: 6
+High Score: 50
+
+Generation: 7
+High Score: 50
+
+Generation: 8
+High Score: 50
+
+Generation: 9
+High Score: 50
+
+Generation: 10
+High Score: 50
+
+Generation: 11
+High Score: 50
+
+Generation: 12
+High Score: 51
+
+Generation: 13
+High Score: 50
+
+Generation: 14
+High Score: 50
+
+Generation: 15
+High Score: 50
+
+Generation: 16
+High Score: 51
+
+Generation: 17
+High Score: 51
+
+Generation: 18
+High Score: 429
